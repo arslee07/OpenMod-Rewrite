@@ -1,0 +1,2 @@
+# OpenMod-Rewrite
+ yes
