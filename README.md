@@ -1,2 +1,3 @@
 # OpenMod-Rewrite
  yes
+(no)
